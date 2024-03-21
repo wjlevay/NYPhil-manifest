@@ -1,427 +1,664 @@
 {
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "id" : "https://wjlevay.github.io/NYPhil-manifest/manifests/PR_1055",
-  "type" : "Manifest",
-  "label" : {
-    "en" : [ "PR_1055" ]
-  },
-  "summary" : {
-    "en" : [ "" ]
-  },
-  "requiredStatement" : {
-    "label" : {
-      "en" : [ "Required statements" ]
-    },
-    "value" : {
-      "en" : [ "" ]
-    }
-  },
-  "metadata" : [ {
-    "label" : {
-      "en" : [ "Program ID" ]
-    },
-    "value" : {
-      "en" : [ "PR_1055" ]
-    }
-  },
-  {
-    "label" : {
-      "en" : [ "Date" ]
-    },
-    "value" : {
-      "en" : [ "1965-03-29" ]
-    }
-  } ],
-  "items" : [ {
-    "width" : 893,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_001.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOT0SFH",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOT0SFH",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 893,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0SFH/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0SFH",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
-  }, {
-    "width" : 885,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_002.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTK3O6",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTK3O6",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 885,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK3O6/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK3O6",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6"
-  }, {
-    "width" : 893,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0HAE",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_003.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOT0HAE",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOT0HAE",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0HAE",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 893,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0HAE/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0HAE",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0HAE"
-  }, {
-    "width" : 885,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK930",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_004.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTK930",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTK930",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK930",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 885,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK930/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK930",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK930"
-  }, {
-    "width" : 893,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_005.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTKUNA",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTKUNA",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 893,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTKUNA/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTKUNA",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA"
-  }, {
-    "width" : 885,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_006.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTK1MF",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTK1MF",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 885,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK1MF/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK1MF",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF"
-  }, {
-    "width" : 893,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_007.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTFSAH",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTFSAH",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 893,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTFSAH/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTFSAH",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH"
-  }, {
-    "width" : 885,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_008.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO27PUK",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO27PUK",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 885,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO27PUK/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO27PUK",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK"
-  }, {
-    "width" : 893,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_009.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2JPCK",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2JPCK",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 893,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JPCK/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JPCK",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK"
-  }, {
-    "width" : 885,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JOMP",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_010.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2JOMP",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2JOMP",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JOMP",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 885,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JOMP/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JOMP",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JOMP"
-  }, {
-    "width" : 893,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_011.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2JZOR",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2JZOR",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 893,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JZOR/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JZOR",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR"
-  }, {
-    "width" : 885,
-    "height" : 1200,
-    "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B",
-    "type" : "Canvas",
-    "label" : {
-      "en" : [ "PR_1055_012.jp2" ]
-    },
-    "items" : [ {
-      "id" : "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2IT0B",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "id" : "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2IT0B",
-        "type" : "Annotation",
-        "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B",
-        "motivation" : "painting",
-        "body" : {
-          "format" : "image/jpeg",
-          "width" : 885,
-          "height" : 1200,
-          "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2IT0B/full/1000,/0/default.jpg",
-          "type" : "Image",
-          "service" : [ {
-            "profile" : "level0",
-            "id" : "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2IT0B",
-            "type" : "ImageService3"
-          } ]
-        }
-      } ]
-    } ],
-    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B"
-  } ],
-"structures": [
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://wjlevay.github.io/NYPhil-manifest/manifests/PR_1055",
+    "type": "Manifest",
+    "label":
     {
-        "@id": "http://example.org/iiif/book1/range/top",
-        "@type": "sc:Range",
-        "label": "Table of Content",
-        "viewingHint": "paged",
-        "ranges": [
-            "http://example.org/iiif/book1/range/intro"
+        "en":
+        [
+            "1965 Mar 29 / Pension Fund Benefit Concert"
         ]
     },
+    "summary":
     {
-        "@id": "http://example.org/iiif/book1/range/intro",
-        "@type": "sc:Range",
-        "label": "Introduction",
-        "canvases": [
-            "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
+        "en":
+        [
+            "An Evening with Danny Kaye"
         ]
-    }
-]
+    },
+    "requiredStatement":
+    {
+        "label":
+        {
+            "en":
+            [
+                "Required statements"
+            ]
+        },
+        "value":
+        {
+            "en":
+            [
+                ""
+            ]
+        }
+    },
+    "metadata":
+    [
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Program ID"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "PR_1055"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Date"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "1965-03-29"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Credit"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "New York Philharmonic Shelby White & Leon Levy Digital Archives"
+                ]
+            }
+        }
+    ],
+    "items":
+    [
+        {
+            "width": 893,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_001.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOT0SFH",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOT0SFH",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 893,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0SFH/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0SFH",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
+        },
+        {
+            "width": 885,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_002.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTK3O6",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTK3O6",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 885,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK3O6/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK3O6",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6"
+        },
+        {
+            "width": 893,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0HAE",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_003.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOT0HAE",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOT0HAE",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0HAE",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 893,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0HAE/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0HAE",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0HAE"
+        },
+        {
+            "width": 885,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK930",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_004.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTK930",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTK930",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK930",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 885,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK930/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK930",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK930"
+        },
+        {
+            "width": 893,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_005.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTKUNA",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTKUNA",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 893,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTKUNA/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTKUNA",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA"
+        },
+        {
+            "width": 885,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_006.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTK1MF",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTK1MF",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 885,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK1MF/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTK1MF",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF"
+        },
+        {
+            "width": 893,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_007.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPOTFSAH",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPOTFSAH",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 893,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTFSAH/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOTFSAH",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH"
+        },
+        {
+            "width": 885,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_008.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO27PUK",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO27PUK",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 885,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO27PUK/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO27PUK",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK"
+        },
+        {
+            "width": 893,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_009.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2JPCK",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2JPCK",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 893,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JPCK/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JPCK",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK"
+        },
+        {
+            "width": 885,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JOMP",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_010.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2JOMP",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2JOMP",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JOMP",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 885,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JOMP/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JOMP",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JOMP"
+        },
+        {
+            "width": 893,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_011.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2JZOR",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2JZOR",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 893,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JZOR/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2JZOR",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR"
+        },
+        {
+            "width": 885,
+            "height": 1200,
+            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B",
+            "type": "Canvas",
+            "label":
+            {
+                "en":
+                [
+                    "PR_1055_012.jp2"
+                ]
+            },
+            "items":
+            [
+                {
+                    "id": "https://cortex.nyphil.org/IIIF3/Presentation/AnnotationPage/2TTUGPO2IT0B",
+                    "type": "AnnotationPage",
+                    "items":
+                    [
+                        {
+                            "id": "https://cortex.nyphil.org/IIIF3/Presentation/Annotation/2TTUGPO2IT0B",
+                            "type": "Annotation",
+                            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B",
+                            "motivation": "painting",
+                            "body":
+                            {
+                                "format": "image/jpeg",
+                                "width": 885,
+                                "height": 1200,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2IT0B/full/1000,/0/default.jpg",
+                                "type": "Image",
+                                "service":
+                                [
+                                    {
+                                        "profile": "level0",
+                                        "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPO2IT0B",
+                                        "type": "ImageService3"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B"
+        }
+    ],
+    "structures":
+    [
+        {
+            "@id": "http://example.org/iiif/book1/range/top",
+            "@type": "sc:Range",
+            "label": "Table of Content",
+            "viewingHint": "top",
+            "ranges":
+            [
+                "http://example.org/iiif/book1/range/intro"
+            ]
+        },
+        {
+            "@id": "http://example.org/iiif/book1/range/intro",
+            "@type": "sc:Range",
+            "label": "Introduction",
+            "canvases":
+            [
+                "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
+            ]
+        }
+    ]
 }
