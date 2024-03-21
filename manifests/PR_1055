@@ -404,5 +404,24 @@
       } ]
     } ],
     "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B"
-  } ]
+  } ],
+"structures": [
+    {
+        "@id": "http://example.org/iiif/book1/range/top",
+        "@type": "sc:Range",
+        "label": "Table of Content",
+        "behavior": "paged",
+        "ranges": [
+            "http://example.org/iiif/book1/range/intro"
+        ]
+    },
+    {
+        "@id": "http://example.org/iiif/book1/range/intro",
+        "@type": "sc:Range",
+        "label": "Introduction",
+        "canvases": [
+            "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
+        ]
+    }
+]
 }
