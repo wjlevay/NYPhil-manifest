@@ -410,7 +410,7 @@
         "@id": "http://example.org/iiif/book1/range/top",
         "@type": "sc:Range",
         "label": "Table of Content",
-        "behavior": "paged",
+        "viewingHint": "paged",
         "ranges": [
             "http://example.org/iiif/book1/range/intro"
         ]
