@@ -1,0 +1,15 @@
+{
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in wjlevay/NYPhil-manifest project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://wjlevay.github.io/NYPhil-manifest/manifests/PR_1055",
+    "label" : {
+      "en" : [ "PR_1055" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
