@@ -18,10 +18,18 @@
   },
   "metadata" : [ {
     "label" : {
-      "en" : [ "Name" ]
+      "en" : [ "Program ID" ]
     },
     "value" : {
       "en" : [ "PR_1055" ]
+    }
+  },
+  {
+    "label" : {
+      "en" : [ "Date" ]
+    },
+    "value" : {
+      "en" : [ "1965-03-29" ]
     }
   } ],
   "items" : [ {
