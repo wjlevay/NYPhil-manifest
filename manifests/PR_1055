@@ -9,6 +9,10 @@
             "1965 Mar 29 / Pension Fund Benefit Concert"
         ]
     },
+    "behavior":
+    [
+        "paged"
+    ],
     "summary":
     {
         "en":
