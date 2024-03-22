@@ -1,0 +1,816 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_012_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "COMING EVENTS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=226,154,689,74"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "AT PHILHARMONIC HALL"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1036,180,833,47"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Wednesday, March 31, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=181,283,368,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE BOSTON SYMPHONY"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=179,313,399,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ORCHESTRA"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=177,343,191,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Erich Leinsdorf, Music Director"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=179,369,427,44"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Grant Johannessen, Pianist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=177,402,355,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Works of Strauss, Piston and Brahms"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=178,432,504,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thursday, April 1, 2:15"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=176,490,313,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "WHEELER BECKETT ORCHESTRA"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=176,521,523,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "OF NEW YORK"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=174,551,232,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Young People’s Concert"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=175,581,315,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Wheeler Beckett, Conductor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=175,610,368,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "WEEK OF APRIL 5"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=171,849,363,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Tuesday, April 6, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=169,901,301,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "WORKS BY A. W. BINDER"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=170,932,403,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Chorus, Orchestra and Ballet"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=166,962,383,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thursday, April 8, 2:15"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=168,1021,319,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE WHEELER BECKETT"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=165,1051,406,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ORCHESTRA OF NEW YORK"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=165,1082,451,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Youth Concert"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=165,1111,192,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Wheeler Beckett, Conductor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=165,1142,371,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thursday, April 8, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=164,1201,308,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=162,1231,453,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Lorin Maazel, Guest Conductor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=163,1261,416,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Leslie Parnas, Cellist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=161,1292,283,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "John Wummer, Flutist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=160,1322,300,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Works of Debussy, Mozart, Saint-Saens"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=160,1351,522,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and Prokofieff"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=159,1382,184,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thursday, April 1, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=820,296,316,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=818,327,449,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Lorin Maazel, Guest Conductor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=817,357,420,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Nathan Milstein, Violinist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=816,386,349,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Works of Bach, Brahms and Sibelius"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=817,416,496,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friday, April 2, 11:00 a.m."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=815,475,371,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PRE-PHILHARMONIC CONCERT"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=815,506,490,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LECTURE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=814,535,146,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philharmonic Hall Choral Room"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=815,565,434,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friday, April 2, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=812,624,284,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE BOSTON SYMPHONY"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=810,655,404,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ORCHESTRA"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=810,685,191,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Erich Leinsdorf, Music Director"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=811,714,432,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Grant Johannessen, Pianist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=810,744,363,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Works of Strauss, Piston and Brahms"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=811,774,509,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friday, April 9, 11:00 a.m."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=806,908,361,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PRE-PHILHARMONIC CONCERT"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=806,939,498,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LECTURE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=805,969,147,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philharmonic Hall Choral Room"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=805,998,434,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friday, April 9, 2:15"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=803,1058,274,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=803,1089,456,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Repeat of Thursday Evening Program"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=802,1119,510,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friday, April 9, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=802,1178,285,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "JAZZ CONCERT"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=800,1209,251,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stan Getz and Tony Bennett"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=800,1238,389,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Saturday, April 10, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=797,1298,328,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=798,1329,457,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Repeat of Thursday Evening Program"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=797,1359,511,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Saturday, April 3, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1459,308,314,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1459,337,448,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Repeat of Thursday Evening Program"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1460,367,507,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sunday, April 4, 11:00 a.m."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1457,427,373,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CHURCH OF THE TRUTH"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1458,457,399,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Dr. Ervin Seale, Minister"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1458,487,336,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sunday, April 4, 3:00"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1455,546,297,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1456,575,449,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Repeat of Thursday Evening Program"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1456,606,509,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sunday, April 4, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1453,665,292,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "KABI LARETEI, Pianist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1454,696,350,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Works of Beethoven, Chopin,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1454,726,390,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bentzon and Schumann"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1453,756,315,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sunday, April 11, 11:00 a.m."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1449,918,378,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CHURCH OF THE TRUTH"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1450,949,403,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Dr. Ervin Seale, Minister"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1449,979,338,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sunday, April 11, 3:00"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1447,1038,301,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1447,1068,457,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Repeat of Thursday Evening Program"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1446,1098,510,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sunday, April 11, 8:30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1446,1157,313,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "A BENEFIT FOR THE WILTWYCK"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1445,1188,550,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SCHOOL FOR BOYS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1444,1218,306,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sammy Davis, Jr., Nina Simone,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1444,1247,438,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_012_annotations.json-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Brock Peters, and Buddy Hackett"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B#xywh=1443,1278,454,34"
+  } ]
+}
