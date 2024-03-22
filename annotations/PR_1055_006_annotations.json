@@ -1,0 +1,1966 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_006_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "This Gala Pension Fund Concert is Sponsored by"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=197,150,786,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE AUXILIARY BOARD OF THE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=197,224,734,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=198,307,835,49"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "1964-1965"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=201,400,165,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. C. Sterling Bunnell, Chairman Mrs. Lytle Hull, Honorary Chairman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=283,586,1102,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. George A. Carden First Vice-Chairman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=283,623,1102,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William G. Maguire Second Vice-Chairman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=282,661,1103,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Frederick L. EHRMAN Secretary"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=282,691,1104,45"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. James H. M. Ewart Treasurer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=280,738,1103,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. John W. Straus )"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=279,767,356,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. George A. Carden 5 Co-Chairmen, Student Activities Committee"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=279,794,1106,63"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Walter S. Fischer Chairman, Student Ticket Endowment Fund"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=279,850,1103,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Hampton S. Lynch Chairman, Women’s Division, Friends of the Philharmonic"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=277,888,1103,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Francis T. P. Plimpton Chairman, Nominating Committee"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=281,926,1102,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CENTRAL COMMITTEE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=192,1057,447,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Bartlett Arkell"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=190,1121,252,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William C. Breed"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=189,1158,297,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Samuel Bronfman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=189,1196,300,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Elbridge G. Chadwick"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1234,360,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. John Goulandris"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1264,272,41"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Elizabeth N. Graham"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=186,1309,352,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Louis A. Green"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=186,1347,269,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Charles Guggenheimer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=185,1385,356,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Robert L. Hoguet, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=586,1122,353,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. C. Strickland Hubbard"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=586,1163,368,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Miss Marion Huber"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=585,1205,257,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur Lehman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=584,1250,271,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Joseph Neff"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=584,1295,225,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Donald M. Oenslager"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=584,1341,342,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. John T. Pratt"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=583,1386,243,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Ralph K. Robertson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=989,1123,326,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William Rosenwald"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=986,1160,312,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. J. Myer Schine"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=985,1198,267,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. M. Lincoln Schuster"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=985,1236,340,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Leo Simon"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=985,1274,210,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Miss Jean Tennyson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=985,1311,271,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Edward R. Wardwell"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=986,1349,329,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Samuel Yaffe"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=985,1387,239,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MEMBERS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=189,1515,184,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Hulbert S. Aldrich"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1577,308,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Amyas Ames"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1616,238,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Chester R. Ames"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1653,291,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. John B. Aspegren"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1691,299,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Gordon Auchincloss"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1728,340,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Howard Austin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=186,1766,265,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Robert Low Bacon"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1804,312,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Clendenin Bailey"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=187,1841,285,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Gerald F. Beal"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=188,1879,260,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. L. D. Thomas Berg"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=189,1917,323,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Enid Berkall"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=190,1954,228,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Rudolph Bernatschke"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=189,1986,343,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Richard Bernhard"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=191,2028,291,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Leonard Bernstein"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=191,2066,300,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Robert Woods Bliss"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=192,2104,323,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Sterling Boos"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=193,2141,239,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Horace C. Brock"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=193,2179,284,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Alvin G. Brush"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=193,2217,276,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Hugh Bullock"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=193,2254,251,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. John C. Carrington"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=193,2292,309,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Gilbert W. Chapman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=194,2329,343,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Howard Clark"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=194,2367,257,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Andre de Coppet"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=194,2404,294,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Louise Boyd Dale"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=194,2442,299,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Marquesa de Cuevas"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=196,2479,258,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William F. Draper"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=195,2517,305,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Seneca D. Eldredge"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=195,2555,324,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Hawley Driggs Ely"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=196,2591,303,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Sherman Ewing"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=195,2629,277,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Marshall Field"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=196,2667,257,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Howeth T. Ford"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=196,2704,272,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Myles S. Friedman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=195,2742,323,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Ruth R. Goddard"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=194,2779,307,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Nathaniel Goldstein"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=585,1579,337,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William W. Golub"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=586,1600,305,54"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. M. Thompson Greene"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=586,1655,356,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. George S. Gregory"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=586,1692,313,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Stephen Grob"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=588,1729,241,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Clarence L. Hay"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=587,1767,285,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. James V. Hayes"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=587,1805,273,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Ethan Allen Hitchcock"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=587,1842,370,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur A. Houghton, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=587,1880,368,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-82",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Henry Ittleson, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=587,1918,312,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-83",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. H. Harris Jonas"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=587,1956,283,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-84",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Alfred Winslow Jones"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=588,1993,361,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-85",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. David M. Keiser"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=588,2031,290,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-86",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Alfred Kohn"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=590,2068,239,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-87",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Richard K. Korn"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=591,2106,297,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-88",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Miltiades P. Kyrtsis"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2136,315,43"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-89",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William S. Lasdon"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=592,2182,312,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-90",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Peter I. B. Lavan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2220,296,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-91",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Llewellyn Lee"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=591,2257,254,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-92",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Miss Barbara Levy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=591,2295,250,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-93",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Miss Jessica Levy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=590,2333,229,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-94",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. A. Neil Lilley"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=591,2371,245,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-95",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Richard P. Loftus"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=592,2408,302,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-96",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. G. Stanley McAllister"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2446,352,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-97",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur V. McDermott"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2484,355,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-98",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Malcolm F. McKesson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2521,368,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-99",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Joseph V. McMullan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2559,345,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-100",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. E. T. MacDermott"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2597,321,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-101",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Clarence H. Mackay"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=593,2634,338,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-102",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Clifford D. Mallory, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=594,2671,376,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-103",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Frederick W. Marks, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=595,2708,370,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-104",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Roy Megargel"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=594,2745,256,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-105",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Claire Millard"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=594,2782,253,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-106",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Edwin A. Muller"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=988,1580,295,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-107",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Charles A. Munroe"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=987,1617,308,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-108",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Samuel I. Newhouse"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=988,1654,323,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-109",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Lionel Perera, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=989,1691,284,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-110",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Ann Cole Phillips"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=989,1729,306,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-111",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. John M. Powers"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=988,1767,282,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-112",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Harold I. Pratt"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=988,1805,269,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-113",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Baroness Radvanszky"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=989,1842,271,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-114",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur M. Reis"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=989,1880,277,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-115",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Dr. Marion Rous"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=989,1916,217,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-116",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Melvin E. Sawin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=991,1955,277,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-117",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Janos Scholz"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=990,1992,238,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-118",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur D. Schulte"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=991,2030,300,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-119",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. H. Cecil Sharp"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2067,265,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-120",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Frederick Sheffield"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=991,2105,319,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-121",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur Stein"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2143,235,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-122",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Gardner Stout"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=993,2181,256,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-123",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Donald P. Straus"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=993,2219,294,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-124",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Lilliana Teruzzi"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2249,276,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-125",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Robert H. Thayer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2295,300,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-126",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Sophie G. Untermeyer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2332,356,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-127",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Lowell Wadmond"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2371,306,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-128",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. G. H. Walker"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=993,2408,245,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-129",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Eli T. Watson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2446,248,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-130",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Sumner Welles"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2484,264,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-131",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Maynard C. Wheeler"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2522,341,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-132",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Richard Whitney"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2559,291,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-133",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Philip Wiedel"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2597,243,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-134",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur Wiesenberger"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2634,343,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-135",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Clark Williams"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2672,265,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-136",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William Woodward, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2710,381,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-137",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Norman S. Woolworth"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=992,2748,367,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-138",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "To Our"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1634,146,277,69"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-139",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friends"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1629,258,287,68"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-140",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "On October 26, 1964, we opened"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1510,392,531,69"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-141",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "our fifteenth annual campaign to"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,465,532,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-142",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "raise funds for the New York"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,503,532,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-143",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philharmonic. Our goal this season"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1509,540,530,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-144",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "is $300,000—the largest that we"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,578,531,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-145",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "have ever sought to reach and our"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,616,531,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-146",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "first increase in seven years. Since"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,653,531,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-147",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "we are calling upon you, our loyal"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,691,530,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-148",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friends, to raise this amount, let"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,728,531,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-149",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "me explain why we need your help"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,767,531,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-150",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "even more than before. This sea"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1506,803,532,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-151",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "son is an historical one for the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,841,532,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-152",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Orchestra. For the first time, we are"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,879,531,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-153",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "operating on a 52-week contract."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,917,530,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-154",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "We are the first Orchestra in the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,954,531,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-155",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "United States to put such a pro"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,993,532,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-156",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "gram into effect—an achievement"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1506,1030,532,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-157",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "we are naturally proud of, and, as"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1068,531,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-158",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "an editorial in the New York Times"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1106,531,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-159",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "pointed out, “There is something"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1143,532,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-160",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "fitting in the fact that America’s"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,1182,531,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-161",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "oldest Orchestra is the first to"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,1219,532,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-162",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "achieve this significant goal.”"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,1257,442,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-163",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "What does this new contract"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1543,1296,494,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-164",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "mean? Obviously, it brings about,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,1333,530,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-165",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and we believe justly so, a better"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,1371,531,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-166",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "working schedule for our musicians."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1408,530,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-167",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "But it also means a sizable expan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,1447,531,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-168",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sion of our activities. We will be"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1507,1484,532,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-169",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "able to introduce new kinds of con"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1522,531,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-170",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "certs and programs. In the summer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1560,531,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-171",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "we can offer special festivals as well"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1597,530,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-172",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "as free outdoor concerts for the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1635,531,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-173",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "people of New York, making it"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1509,1672,531,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-174",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "possible for many to hear our Or"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1509,1711,532,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-175",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "chestra for the first time."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1749,389,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-176",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "This season we have already in"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1543,1786,496,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-177",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "troduced two new subscription"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1824,531,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-178",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "series—one for adults and one for"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1861,532,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-179",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "young people, and we also plan to"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1508,1900,531,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-180",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lengthen our highly popular spring"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1509,1937,532,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-181",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“Promenades” concerts — again"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1509,1974,531,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-182",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "making it possible for many more"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1509,2014,531,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-183",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "to hear our marvelous Orchestra."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1509,2051,499,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-184",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "However, as we all know, sold-"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1546,2081,494,49"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-185",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "out houses do not pay for the cost"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1510,2126,532,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-186",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of giving concerts, and it also holds"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1510,2163,531,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-187",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "true that the longer the season, the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1510,2201,532,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-188",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "greater the need for funds. Since"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1511,2239,531,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-189",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "its founding, fourteen campaigns"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1510,2276,533,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-190",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ago, the Friends have loyally and"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1510,2313,531,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-191",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "generously supported the New York"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1511,2352,532,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-192",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philharmonic. This season we will"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1511,2390,530,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-193",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "again count on your steadfast and"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1511,2427,530,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-194",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "true friendship."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1511,2469,227,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-195",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "General Chairman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1626,2756,259,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_006_annotations.json-196",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Friends of the Philharmonic"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF#xywh=1624,2789,416,30"
+  } ]
+}
