@@ -1,0 +1,236 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_005_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Allan Sherman / Arthur Fiedler"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=768,1794,618,50"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The masters of musical satire take"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=768,1861,616,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "an affectionate poke at Prokofieff,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=769,1928,613,50"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Brahms, Beethoven & others"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=814,1977,532,74"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "It was bound to happen! The top musical"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=166,2397,572,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "satirists of our time have joined forces in"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=165,2438,573,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a lively new album that plays fast and"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=165,2479,573,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "loose with the music of the masters."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=166,2520,572,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Recorded “live,\" this high-spirited spoof"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=166,2561,573,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "includes Sherman’s hilarious parody of"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=165,2602,574,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“Peter and the Wolf” (which includes such"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=166,2643,571,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "items as Beethoven’s Fifth Cha-Cha-Cha"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=166,2685,572,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "4yFfDLER"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=831,2397,386,82"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a and Aida in Dixieland) plus the fresh and"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1427,2399,601,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "■ funny “End of a Symphony.\" And Allan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1427,2437,600,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "V makes his conducting debut here in a"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1428,2471,599,53"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "r slightly swacked rendition of \"Variations"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1427,2512,600,44"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "on How Dry I Am.” It’s all great fun — as"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1441,2562,585,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "13,327 listeners who heard these selections"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1435,2604,591,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in concert can attest. Recorded in Dynagroove"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1420,2645,606,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sound, a most pleasant listening experience."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=1408,2686,617,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "RCA VICTOR^"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=855,2725,432,88"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_005_annotations.json-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "99 The most trusted name in sound “L”"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA#xywh=863,2794,413,36"
+  } ]
+}
