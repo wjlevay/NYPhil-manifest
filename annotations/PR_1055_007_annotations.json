@@ -1,0 +1,976 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_007_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "New York"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=361,169,265,48"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philharmonic"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=316,245,351,49"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FORTHCOMING PROGRAMS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=222,333,537,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "1964-65 SEASON"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=348,403,295,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "(Subject to change)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=355,458,274,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MAAZEL, conducting"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=196,578,347,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Sat.-Sun. Apr. 1-3-4"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=200,630,317,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NATHAN MILSTEIN, violinist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=195,668,327,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BACH Brandenburg Concerto No. 3"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=195,708,407,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BRAHMS Violin Concerto"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=193,736,296,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SIBELIUS Symphony No. 1"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=193,762,305,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Fri.-Sat.-Sun. Apr. 8-9-10-11"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=192,825,425,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LESLIE PARNAS, cellist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=192,858,271,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "JOHN WUMMER, flutist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=194,884,263,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "DEBUSSY Jeux"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=192,919,164,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MOZART Flute Concerto, D major, K. 314"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=192,942,504,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SCHUMANN Cello Concerto"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=191,970,304,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PROKOFIEFF Romeo and Juliet, Excerpts"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=191,996,477,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Fri.-Sat.-Sun. Apr. 15-16-17-18"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=190,1060,444,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LAUREL HURLEY, soprano"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=190,1092,298,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CHARLES BRESSLER, tenor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=191,1118,305,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "JOSEPH ROULEAU, bass"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=192,1145,272,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE SCHOLA CANTORUM"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,1171,275,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "HAYDN The Seasons"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=191,1206,234,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "STEINBERG, conducting"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=192,1330,419,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Fri.-Sat.-Sun. Apr. 22-23-24-25"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=192,1384,446,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "RUDOLF SERKIN, pianist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,1417,286,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MENDELSSOHN Program"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,1452,273,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Overture, “Fingal's Cave\""
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=219,1484,302,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Piano Concerto No. 2"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=219,1510,257,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Scherzo from Octet"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=218,1537,234,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Piano Concerto No. 1"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=218,1563,256,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Symphony No. 4 (\"Italian”)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=218,1589,328,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Fri.-Sat.-Sun. Apr. 29-30: May 1-2"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,1658,509,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "HAYDN Symphony No. 49 (\"La Passione”)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=191,1689,477,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MAHLER Symphony No. 6"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=191,1718,291,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Frl.-Sat. May 6-7-8"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,1791,328,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "VAN CLIBURN, pianist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,1822,260,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PERRY (Julia) Study"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,1857,234,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "STRAVINSKY Song of the Nightingale"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,1880,452,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "VERDI Quartet for Strings"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=187,1909,314,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BEETHOVEN Piano Concerto No. 4"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,1934,404,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sun. May 9"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,2007,132,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ITZHAK PERLMAN, violinist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,2036,303,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "(Leventritt Award Winner)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2058,291,41"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PERRY Study"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2136,142,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "STRAVINSKY Song of the Nightingale"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2159,418,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "VERDI Quartet for Strings"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2189,292,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BRUCH Violin Concerto No. 1"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,2215,366,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Fri.-Sat.-Sun. May 13-14-15-16"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2290,454,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ARTHUR GRUMIAUX, violinist"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,2322,337,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BERLIOZ Overture, “Beatrice and Benedict\""
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=190,2353,510,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BARTOK Violin Concerto No. 2"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=190,2381,362,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BEETHOVEN Symphony No. 3 (“Eroica”)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,2406,475,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Fri.-Sat.-Sun. May 20-21-22-23"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2478,454,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BRUCKNER CYCLE—VI"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=190,2511,255,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "GLUCK Overture, \"Iphigenia in Aulis\""
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=189,2536,440,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BRUCKNER Symphony No. 5"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=190,2563,323,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Thurs.-Fri.-Sat.-Sun. May 27-28-29-30"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=187,2634,453,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LOIS MARSHALL, soprano"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2666,294,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SHIRLEY VERRETT, mezzo-soprano"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2692,393,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CHARLES BRESSLER, tenor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2719,311,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "KENNETH SMITH, bass-baritone"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=188,2744,364,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE AMERICAN CONCERT CHOIR"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=186,2770,364,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BACH Mass in B minor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=191,2805,278,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : ". Deutsche,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1222,323,375,72"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Qes^Usxhaft"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1293,442,313,52"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Brilliant Recordings on"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=983,556,703,88"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Deutsche Grammophon"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=983,648,714,86"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conducted by"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=980,738,417,84"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LORIN MAAZEL"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=983,840,767,104"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Berlin Philharmonic Orchestra"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=971,1670,691,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TCHAIKOVSKY: Symphony No. 4"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=969,1968,567,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "18574"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1634,2102,68,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo 138033"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1770,2102,168,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "French National Orchestra"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=968,2323,605,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and others"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=968,2593,170,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "DIRECT IMPORT-FACTORY SEALED"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1195,2688,507,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "18685"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1631,1935,71,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "18789"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1639,1979,67,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Berlin Radio Symphony"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=970,2156,541,46"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-82",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FRANCK: Symphony in D Minor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=971,2226,532,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-83",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "RESPIGHI: Pines of Rome; MUSSORGSKY: Night On Bald"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=973,2019,966,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-84",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mountain; RIMSKY-KORSAKOFF: Capriccio Espagnol"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=971,2059,895,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-85",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MENDELSSOHN: Symphonies No. 4 and No. 5"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=973,1740,786,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-86",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "18684"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1632,1783,73,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-87",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SCHUBERT: Symphonies No. 2 and No. 3"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=972,1816,698,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-88",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "18790"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1639,1859,69,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-89",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SCHUBERT: Symphonies No. 5 and No. 6"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=971,1892,703,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-90",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BRITTEN: Young Person’s Guide to the Orchestra; Narrator:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=970,2393,966,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-91",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Lorin Maazel"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=970,2433,203,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-92",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PROKOFIEV: Peter And The Wolf; Narrator: Alec Clunes"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=971,2476,965,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-93",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "18746 Stereo 138746"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1636,2519,301,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-94",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "RAVEL: L’Enfant et les Sortileges; Soloists: Heinz Rehfuss"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=971,2552,967,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-95",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FREE! ON REQUEST: The new 1965 DGG/ARCHIVE illustrated catalog."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1094,2753,726,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-96",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Write MGM Records, Classical Div., 1540 Bway, N.Y.C., N.Y. 10036"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=1111,2793,691,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_007_annotations.json-97",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PrIITIIIIr"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH#xywh=2003,2081,61,342"
+  } ]
+}
