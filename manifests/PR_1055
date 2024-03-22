@@ -51,7 +51,7 @@
             {
                 "en":
                 [
-                    "PR_1055"
+                    "1055"
                 ]
             }
         },
@@ -68,6 +68,103 @@
                 "en":
                 [
                     "1965-03-29"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Orchestra"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "New York Philharmonic"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Conductors"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "Ozawa, Seiji", "Kaye, Danny"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Works"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "Berlioz / Roman Carnival Overture, Op. 9",
+                    "Unspecified / Announced from the stage"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Event Type"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "Pension Fund Benefit Concert"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Venue"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "Philharmonic Hall"
+                ]
+            }
+        },
+        {
+            "label":
+            {
+                "en":
+                [
+                    "Location"
+                ]
+            },
+            "value":
+            {
+                "en":
+                [
+                    "Manhattan, NY"
                 ]
             }
         },
