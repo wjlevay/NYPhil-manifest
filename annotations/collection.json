@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001_annotations.json", "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001_annotations", "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001", "https://wjlevay.github.io/NYPhil-manifest/annotations/annotations1", "https://wjlevay.github.io/NYPhil-manifest/annotations/anno1" ],
+  "otherContent" : [ "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001_annotations.json", "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001_annotations", "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001", "https://wjlevay.github.io/NYPhil-manifest/annotations/annotations1", "https://wjlevay.github.io/NYPhil-manifest/annotations/anno1", "https://wjlevay.github.io/NYPhil-manifest/annotations/Annotations1" ],
   "@id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/collection.json",
   "label" : "All annotations loaded in wjlevay/NYPhil-manifest project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
