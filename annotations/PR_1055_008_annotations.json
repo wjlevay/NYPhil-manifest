@@ -1,0 +1,2076 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_008_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "as usas usas us 25- usas usar usar usas usas us as usar us ar us us usar"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=167,157,1170,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "23*3*3*523235333-3-3"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=173,171,1170,47"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,352,833,46"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LEONARD BERNSTEIN, Music Director"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=163,448,698,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "seiji ozawa, Assistant Conductor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=157,522,463,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ORCHESTRA PERSONNEL"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=507,649,488,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "VIOLINS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,736,101,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "John Corigliano"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,764,217,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Concertmaster"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,808,195,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Frank Gullino"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,869,194,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Asst. Concertmaster"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,913,274,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Joseph Bernstein"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,979,228,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Dembinsky"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=157,1017,274,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bjoern Andreasson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=165,1048,252,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Alfio Micci"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1086,151,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Leon Temerson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1130,212,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Kenneth Gordon"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1167,227,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Max Weiner"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1204,167,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Leon Rudin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1242,160,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Nowinski"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1279,249,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Louis Fishzohn"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1316,209,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Morris Borodkin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1353,228,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Joachim Fishberg"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1385,240,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Carlo Renzulli"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1422,201,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Newton Mansfield"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1466,248,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mordecai Dayan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1503,231,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Robert Menga"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,1541,192,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Leopold Rybb"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1607,197,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Arthur Schuller"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,1644,217,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Armand Neveux"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,1682,228,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Fnrico Di Cecco"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=163,1713,224,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Luigi Carlini"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,1750,172,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Carlos Piantini"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=158,1793,205,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Martin Eshelman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,1831,235,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Oscar Weizner"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1862,196,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Michael de Stefano"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1905,272,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Jacques Margolies"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,1943,247,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Morris Kreiselman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,1974,252,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "W. Sanford Allen"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,2018,242,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Fugene Bergen"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=164,2049,200,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Nathan Goldstein"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,2092,243,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bernard Robbins"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2130,232,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Allan Schiller"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=163,2166,189,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "VIOLAS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=159,2236,92,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Lincer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2265,206,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Leonard Davis"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,2308,202,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "David Kates"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2345,169,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sol Greitzer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2382,167,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ralph Mendelson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=162,2419,236,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Selig Posner"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2457,168,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Eugene Becker"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2495,205,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Robert Weinrebe"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2525,227,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Henry Nigrine"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=160,2563,197,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Larry Newland"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=161,2607,207,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Carboni"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,732,229,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Raymond Sabinsky"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,769,265,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CELLOS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=574,839,88,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Lorne Munroe"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,875,202,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Nathan Stutch"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,911,197,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Rudolph Sims"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,949,192,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bernard Altmann"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,986,236,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Martin Ormandy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,1023,231,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "George Feher"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,1061,190,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Asher Richman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,1098,214,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Lorin Bernsohn"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,1136,215,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Avron Coleman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=579,1167,218,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Paul Clement"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,1211,185,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Avram A. Lavin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1248,222,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Jurgen de Lemos"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=575,1286,236,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BASSES"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,1356,88,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Robert Brennand"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1391,234,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Frederick Zimmermann"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1427,325,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Carlo Raviola"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,1459,191,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "John Schaeffer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1502,198,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Robert Gladstone"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=578,1540,242,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Walter Botti"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,1577,171,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Rhein"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1614,198,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Benjamin Schlossberg"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=578,1651,299,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mario Polisi"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1689,170,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FLUTES"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1759,81,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "John Wummer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1794,205,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-82",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Robert Morris"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1831,193,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-83",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Paige Brook"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,1869,168,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-84",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PICCOLO"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,1939,110,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-85",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "F. William Heim"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,1973,233,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-86",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "OBOES"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,2044,83,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-87",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Harold Gomberg"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=578,2078,234,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-88",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Jerome Roth"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=576,2115,176,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-89",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Albert Goltzer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,2153,204,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-90",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ENGLISH HORN"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,2223,197,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-91",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Engelbert Brenner"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,2257,250,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-92",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CLARINETS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,2327,132,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-93",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stanley Drucker"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=577,2362,224,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-94",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Michael Burgio"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=578,2399,217,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-95",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "E-FLAT CLARINET"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=579,2469,214,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-96",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Peter Simenauer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=580,2497,222,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-97",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BASS CLARINET"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=579,2573,197,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-98",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Leonard Schaller"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=580,2607,231,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-99",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BASSOONS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,737,139,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-100",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Manuel Zegler"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,771,200,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-101",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Frank Ruggieri"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,808,207,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-102",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Harold Goltzer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,846,210,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-103",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "CONTRABASSOON"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=994,901,231,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-104",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bert Bial"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,935,121,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-105",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "HORNS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=994,994,87,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-106",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "James Chambers"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=994,1028,231,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-107",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Joseph Singer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=994,1066,190,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-108",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "A. Robert Johnson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=996,1104,259,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-109",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "John Carabella"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1141,207,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-110",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ranier De Intinis"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1172,243,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-111",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Namen"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=994,1216,218,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-112",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TRUMPETS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=994,1278,123,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-113",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Vacchiano"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=994,1306,263,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-114",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Carmine Fornarotto"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1349,279,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-115",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "John Ware"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1387,152,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-116",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "James Smith"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=996,1424,171,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-117",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TROMBONES"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1482,157,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-118",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Fdward Herman, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=997,1517,285,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-119",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Gilbert Cohen"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=996,1555,196,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-120",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Allen Ostrander"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=998,1592,220,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-121",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Fdward Erwin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=997,1629,202,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-122",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TUBA"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1688,64,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-123",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Joseph Novotny"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=996,1722,221,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-124",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TIMPANI"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1781,106,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-125",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Saul Goodman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1815,205,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-126",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PERCUSSION"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=996,1873,157,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-127",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Walter Rosenberger"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1908,272,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-128",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Elden Bailey"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=996,1945,176,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-129",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Morris Lang"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,1983,178,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-130",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "HARP"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,2042,65,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-131",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Myor Rosen"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=995,2076,171,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-132",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Orchestra Personnel Mgr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=991,2156,347,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-133",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Joseph De Angelis"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1028,2194,256,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-134",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Assistant Personnel Mgr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=997,2238,342,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-135",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Armand Neveux"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1029,2277,228,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-136",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Librarian"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=997,2321,125,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-137",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Howard Keresey"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1029,2359,229,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-138",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Assistant Librarian"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=998,2403,261,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-139",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Joseph Zizza"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1030,2440,175,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-140",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stage Representative"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=997,2485,283,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-141",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Francis Nelson"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1030,2522,205,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-142",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Press Director"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=998,2568,198,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-143",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Frank W. Milburn, Jr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1030,2604,315,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-144",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "838338383333833333"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=214,2773,1133,63"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-145",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "E*3**********"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1446,153,581,84"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-146",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEW YORK"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,277,334,48"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-147",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "PHILHARMONIC"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,343,479,49"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-148",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The Philharmonic-"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,439,384,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-149",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Symphony Society of"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,504,427,50"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-150",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "New York, Inc."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,573,309,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-151",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "BOARD OF DIRECTORS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1441,702,443,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-152",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "David M. Keiser"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,763,203,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-153",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Chairman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,786,111,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-154",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Amyas Ames"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,823,155,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-155",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "President"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,845,104,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-156",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. John T. Pratt"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,882,227,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-157",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "V ice-President"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1442,900,160,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-158",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Robert L. Hoguet. Jr"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,941,328,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-159",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Vice-President"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,963,162,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-160",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Gerald F. Beal"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1437,1001,178,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-161",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Vice-President"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,1023,161,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-162",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "John Holbrook"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1060,179,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-163",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Vice-President"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,1083,161,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-164",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sampson R. Field"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,1120,214,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-165",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "T reasurer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1145,109,17"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-166",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William Rosenwald"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1176,227,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-167",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Assistant Treasurer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1204,228,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-168",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Chester G. Burden"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1437,1241,224,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-169",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Assistant Treasurer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1264,228,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-170",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Paul G. Pennoy er"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,1301,216,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-171",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Secretary"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1324,104,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-172",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Floyd G. Blair"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1389,179,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-173",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. William C. Breed"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1426,272,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-174",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Edgar M. Bronfman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1463,247,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-175",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Alvin G. Brush"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1500,183,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-176",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. C. Sterling Bunnell"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1537,293,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-177",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "II. S. Mackenzie Burns"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1574,280,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-178",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Benjamin J. Buttenwieser"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1441,1605,300,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-179",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. George A. Carden"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1649,287,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-180",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. E. Gerry Chadwick"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1686,295,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-181",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Maitland A. Edey"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1727,218,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-182",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Nevil Ford"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1437,1765,133,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-183",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Francis Goelet"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1801,172,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-184",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "G. Lauder Greenway"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1437,1839,255,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-185",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Charles Guggenheimer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,1876,335,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-186",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "William R. Herod"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1437,1914,215,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-187",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ethan Allen Hitchcock"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,1950,274,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-188",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Lytle Hull"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,1988,186,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-189",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Arthur Lehman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,2025,253,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-190",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "David Ogilvy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,2063,154,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-191",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Francis T. P. Plimpton"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,2099,284,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-192",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. David Rockefeller"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1441,2136,284,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-193",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Richard Rodgers"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,2175,194,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-194",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Axel G. Rosin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1441,2211,173,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-195",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Carleton Sprague Smith"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,2248,285,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-196",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Gregory B. Smith"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,2285,213,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-197",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mrs. Edward R. Wardwell"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1442,2323,317,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-198",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TRUSTEES"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,2405,193,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-199",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Floyd G. Blair"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,2455,180,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-200",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Chairman"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,2478,110,17"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-201",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Amyas Ames"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1439,2518,156,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-202",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Gerald F. Beal"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1438,2559,183,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-203",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Benjamin J. Buttenwieser"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,2599,301,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-204",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Paul G. Pennoyer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,2640,212,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-205",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Advisor to the Board:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1440,2681,267,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-206",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Bruno Zirato"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1443,2706,152,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_008_annotations.json-207",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "<*******"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK#xywh=1456,2749,574,91"
+  } ]
+}
