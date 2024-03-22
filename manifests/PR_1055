@@ -231,6 +231,13 @@
                     ]
                 }
             ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "My fantastic annotations"
+                }
+            ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
         },
         {
