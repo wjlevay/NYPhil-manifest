@@ -235,7 +235,7 @@
                 {
                     "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_001_annotations.json",
                     "@type": "sc:AnnotationList",
-                    "label": "My fantastic annotations"
+                    "label": "Text of page -"
                 }
             ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
@@ -284,6 +284,13 @@
                     ]
                 }
             ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_002_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
+                }
+            ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6"
         },
         {
@@ -328,6 +335,13 @@
                             }
                         }
                     ]
+                }
+            ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_003_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
                 }
             ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0HAE"
@@ -376,6 +390,13 @@
                     ]
                 }
             ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_004_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
+                }
+            ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK930"
         },
         {
@@ -420,6 +441,13 @@
                             }
                         }
                     ]
+                }
+            ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_005_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
                 }
             ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTKUNA"
@@ -468,6 +496,13 @@
                     ]
                 }
             ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_006_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
+                }
+            ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK1MF"
         },
         {
@@ -512,6 +547,13 @@
                             }
                         }
                     ]
+                }
+            ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_007_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
                 }
             ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTFSAH"
@@ -560,6 +602,13 @@
                     ]
                 }
             ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_008_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
+                }
+            ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO27PUK"
         },
         {
@@ -604,6 +653,13 @@
                             }
                         }
                     ]
+                }
+            ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_009_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
                 }
             ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK"
@@ -652,6 +708,13 @@
                     ]
                 }
             ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_010_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
+                }
+            ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JOMP"
         },
         {
@@ -696,6 +759,13 @@
                             }
                         }
                     ]
+                }
+            ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_011_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
                 }
             ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR"
@@ -744,29 +814,15 @@
                     ]
                 }
             ],
+            "otherContent": [
+                {
+                    "@id": "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_012_annotations.json",
+                    "@type": "sc:AnnotationList",
+                    "label": "Text of page -"
+                }
+            ],
             "target": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2IT0B"
         }
     ],
-    "structures":
-    [
-        {
-            "@id": "http://example.org/iiif/book1/range/top",
-            "@type": "sc:Range",
-            "label": "Table of Content",
-            "viewingHint": "top",
-            "ranges":
-            [
-                "http://example.org/iiif/book1/range/intro"
-            ]
-        },
-        {
-            "@id": "http://example.org/iiif/book1/range/intro",
-            "@type": "sc:Range",
-            "label": "Introduction",
-            "canvases":
-            [
-                "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH"
-            ]
-        }
-    ]
+    "structures": []
 }
