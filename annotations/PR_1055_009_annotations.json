@@ -1,0 +1,226 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_009_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Barbirolli"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=912,1420,448,88"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MAHLER. Symphony No. 9 with the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=925,1548,538,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Berlin Philharmonic SB 3652"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=924,1573,433,44"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "VAUGHAN WILLIAMS Symphony"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=921,1639,546,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "No. 5 in D, with the Philharmonia"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=921,1668,493,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Orchestra S 35952"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=923,1706,263,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "VAUGHAN WILLIAMS Fantasia on"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=922,1762,563,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a Theme by Tallis; Fantasia on"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=923,1796,457,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Greensleeves; ELGAR Introduction"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=925,1830,527,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and Allegro for Strings, Op. 47; Serenade"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=925,1863,616,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in E Minor, Op. 20, with the Sinfonia"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=924,1897,550,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of London S 36101"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=924,1931,274,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ELGAR Enigma Variations, Op. 36;"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=926,1986,540,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Cockaigne Overture, Op. 40, with the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=926,2020,537,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philharmonia Orchestra S 36120"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=925,2054,472,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Angel"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=746,2345,120,56"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TCHAIKOVSKY Piano Concerto No. 1"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=925,2109,592,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in B Flat Minor, Op. 23; FRANCK"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=925,2143,533,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Variations Symphoniques, with John"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=924,2177,538,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ogdon and the Philharmonia Orchestra"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=925,2210,570,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "S 36142"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=926,2244,110,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_009_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "S indicates Stereo availability"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JPCK#xywh=926,2400,336,22"
+  } ]
+}
