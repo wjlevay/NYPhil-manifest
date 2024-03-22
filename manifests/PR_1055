@@ -188,8 +188,8 @@
     "items":
     [
         {
-            "width": 893,
-            "height": 1200,
+            "width": 2233,
+            "height": 3000,
             "id": "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOT0SFH",
             "type": "Canvas",
             "label":
@@ -214,9 +214,9 @@
                             "body":
                             {
                                 "format": "image/jpeg",
-                                "width": 893,
-                                "height": 1200,
-                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0SFH/full/1000,/0/default.jpg",
+                                "width": 2233,
+                                "height": 3000,
+                                "id": "https://cortex.nyphil.org/IIIF3/Image/2TTUGPOT0SFH/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service":
                                 [
