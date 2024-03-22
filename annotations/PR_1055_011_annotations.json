@@ -1,0 +1,1036 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_011_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "NEXT WEEK AT THE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=264,239,429,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Metropolitan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=216,328,507,107"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Opera"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=364,455,225,100"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 5, at 8:00"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=187,609,177,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Aida"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=185,642,124,46"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Kuchta, Cernei, Martin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=186,701,301,44"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Prevedi, Sereni, Diaz, Scott, Nagy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=191,736,456,46"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conductor: Steinberg"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=186,782,280,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 6, at 8:00"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=188,857,174,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ernani"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=188,890,174,46"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Amara, Ordassy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=188,957,205,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Corelli, MacNeil, Siepi, Anthony,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=188,991,443,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Christopher"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=189,1034,151,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conductor: Schippers"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=188,1070,283,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 7, at 8:00"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=190,1143,175,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Turandot"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=189,1173,254,49"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Valkki, Moffo"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=189,1242,186,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Konya, Giaiotti, Marsh, Nagy, Anthony,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=190,1276,537,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Caruso, Goodloe"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=190,1318,216,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conductor: Cleva"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=190,1357,231,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 8, at 8:00"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,1430,177,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Aida"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,1462,124,46"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Arroyo, Cernei, Martin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,1529,302,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Prevedi, Bardelli, Diaz, Scott, Nagy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,1552,472,54"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conductor: Steinberg"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,1604,278,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 9, at 8:00 (last)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=194,1678,244,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Simon Boccanegra"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,1710,491,62"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Milanov"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=196,1776,100,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MacNeil, Morell, Tozzi, Walker, Scott, Nagy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,1810,596,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conductor: Cleva"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,1854,232,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 10, at 2:00 (last)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=195,1927,257,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ernani"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,1961,173,45"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Price, Ordassy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,2028,186,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Corelli, Sereni, Siepi, Anthony, Christopher"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,2059,569,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conductor: Schippers"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,2102,282,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 10, at 8:00 (last)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,2174,255,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Die Walkuere"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,2205,364,50"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Valkki, Crespin, Dunn"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,2273,303,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Vickers, Hines, Wiemann"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=192,2310,341,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Conductor: Steinberg"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=194,2349,277,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "April 11, at 8:30 (Non-Subscription)"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=194,2420,390,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ballet Evening"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=195,2454,389,64"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Les Sylphides"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=193,2522,179,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Pas de Quatre"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=194,2561,189,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The Miraculous Mandarin"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=195,2596,343,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "\"Bacchanale” from \"Samson et Dalild’"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=197,2631,510,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "casts subject to change"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=504,2682,290,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Lorin Maazel"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=922,250,583,87"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with The Vienna Philharmonic Orchestra"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=877,367,465,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "New Releases:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=929,412,163,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Tchaikovsky:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=942,444,151,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SYMPHONY NO. 4 MINOR"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=944,462,385,41"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6429 Mono CM-9429"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=944,496,438,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Tchaikovsky: SYMPHONY NO. 3"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=943,530,387,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "IN D MAJOR (\"Polish\")"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=945,557,285,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6428 Mono CM-9428"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=947,583,438,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Tchaikovsky: SYMPHONY NO. 6"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=925,630,391,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "IN B MINOR (\"Pathetique\")"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=926,657,330,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6409 Mono CM-9409"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=927,683,483,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Tchaikovsky:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=927,720,150,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SYMPHONY NO. 5 IN E MINOR"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=928,744,385,22"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6376 Mono CM-9376"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=928,770,482,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Sibelius: SYMPHONY NO. 1 IN E MINOR"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=929,803,482,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "KARELIA SUITE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=929,833,195,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6375 Mono CM-9375"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=929,857,483,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Strauss: DON JUAN"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=930,894,238,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "TOD UND VERKLARUNG"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=930,919,307,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6415 Mono CM-9415"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=931,944,483,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Beethoven: FIDELIO"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=931,981,235,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with Birgit Nilsson, James McCracken,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=930,1004,442,28"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Tom Krause, Hermann Prey"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=932,1033,317,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo OSA-1259 Mono A-4259"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=933,1058,486,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with The Israel Philharmonic Orchestra"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=887,1092,449,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stravinsky: PETRUSHKA"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=933,1129,295,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Glinka:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=934,1156,84,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "RUSSLAN AND LUDMILLA OVERTURE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=939,1172,472,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6339 Mono CM-9339"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=935,1206,484,23"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Beethoven:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=934,1244,123,19"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "LEONORE OVERTURES 1, 2 & 3"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=935,1268,392,24"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FIDELIO OVERTURE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=936,1296,249,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6328 Mono CM-9328"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=936,1312,484,43"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-82",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Tchaikovsky: PIANO CONCERTO NO. 1"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=936,1354,486,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-83",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "IN B FLAT MINOR"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=938,1383,227,20"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-84",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with Vladimir Ashkenazy—"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=936,1407,308,27"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-85",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "The London Symphony Orchestra"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=938,1434,382,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-86",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Stereo CS-6360 Mono CM-9360"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=939,1452,484,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-87",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "200/"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=990,1541,365,122"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-88",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "FULL FREQUENCY RANGE RECORDING"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=963,1659,347,18"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-89",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Photo: Foyer"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=881,1960,125,21"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-90",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "National Membership in The Metropolitan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1333,2156,710,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-91",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Opera Guild costs only $7... includes 24 is"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1334,2193,709,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-92",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sues of OPERA NEWS, most widely read,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1335,2230,708,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-93",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "used and quoted magazine in the field. Each"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1334,2267,710,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-94",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "week during the Saturday afternoon radio"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1335,2305,710,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-95",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "broadcast season, OPERA NEWS provides"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1336,2342,710,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-96",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "detailed background information about the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1336,2379,710,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-97",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "featured opera, composer, cast, sets, etc. Plus"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1336,2416,711,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-98",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "regular features and informative articles"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1338,2453,709,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-99",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "about and by well-known opera personalities."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1338,2490,709,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-100",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "To enroll, send check for $7 with your name"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1337,2565,709,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-101",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and address to:"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1337,2607,249,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-102",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE METROPOLITAN OPERA GUILD, INC."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1333,2653,741,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_011_annotations.json-103",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "1425 Broadway New York, N.Y. 10018"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPO2JZOR#xywh=1344,2699,708,40"
+  } ]
+}
