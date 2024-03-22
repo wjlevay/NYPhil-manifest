@@ -1,0 +1,1226 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://wjlevay.github.io/NYPhil-manifest/annotations/PR_1055_002_annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-1",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "MEET"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=764,287,321,98"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-2",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "THE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=768,411,240,98"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-3",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ARTISTS"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=759,527,501,107"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-4",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "DANNY KAYE"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=712,764,258,25"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-5",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“If Danny Kaye had not been born,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=747,809,558,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-6",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "no one could possibly have invented"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,848,594,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-7",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "him,” a Hollywood writer remarked in"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,884,595,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-8",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "appraising the entertainer’s accomplish"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,922,593,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-9",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ments. Danny has made show business"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,961,594,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-10",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "history as a player on Broadway, mo"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,997,595,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-11",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tion picture star, performer on the one-"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,1034,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-12",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "man concert stage, recording artist (in"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,1074,596,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-13",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "song and story), nightclub headliner,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,1110,593,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-14",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and television personality."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1147,386,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-15",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "In addition, he has found time to be"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=748,1185,557,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-16",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "an international ambassador of good"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1222,594,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-17",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "will (through his services in behalf of"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,1260,597,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-18",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "UNESCO and UNICEF), a licensed"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,1298,595,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-19",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "airplane pilot, honorary member of the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1335,594,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-20",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "American College of Surgeons, rabid"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1373,594,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-21",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "booster of the Los Angeles Dodgers, and"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1410,593,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-22",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "conductor. Danny Kaye, probably the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1448,594,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-23",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "only conductor in the world who can"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,1486,595,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-24",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "not read a note of music, began his"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1524,593,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-25",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "podium career as a joke when, in 1954,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=712,1561,592,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-26",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "he agreed to direct a pension fund con"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1598,593,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-27",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "cert for the Philadelphia Orchestra. It"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,1636,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-28",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "was such a resounding success that he"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1674,594,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-29",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "subsequently conducted the Boston Sym"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,1711,595,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-30",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "phony, the New York Philharmonic,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1748,592,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-31",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Dallas Symphony, Detroit Symphony"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=712,1786,592,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-32",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and Oklahoma City Symphony. His"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1823,593,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-33",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "“conducting” has raised over one-mil"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,1861,592,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-34",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "lion dollars for the pension funds of the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,1898,593,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-35",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "orchestras mentioned."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,1936,331,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-36",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Danny was born David Daniel Kom-"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=748,1967,553,51"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-37",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "inski, the son of Ukrainian immigrants,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,2011,590,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-38",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "in Brooklyn. He made his first stage"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,2048,592,41"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-39",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "appearance in a school play at P.S. 149,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=711,2087,590,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-40",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "playing a watermelon seed. Quitting"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,2123,593,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-41",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "high school at the age of 17, Danny"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=708,2161,595,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-42",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "worked successively as a soda foun"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,2199,592,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-43",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "tain clerk, apprentice insurance adjustor"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,2236,592,41"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-44",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "(in which connection he once made a"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=713,2274,588,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-45",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "mathematical mistake which cost his"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,2311,592,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-46",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "employer $40,000) and overseer of a"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,2349,592,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-47",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "dentist s office while the dentist was out"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,2386,593,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-48",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "to lunch. (It should be noted that the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,2424,592,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-49",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "dentist’s daughter, Sylvia Fine, was later"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,2461,592,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-50",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "to become Mrs. Kaye.) The job at the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=710,2500,590,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-51",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "dentist’s lasted until boredom set in,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,2536,591,43"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-52",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and Danny, to amuse himself, made"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=709,2574,591,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-53",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "needlepoint designs in the woodwork"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=708,2612,592,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-54",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with the dentist’s drill."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=708,2649,341,32"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-55",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "After several seasons of amateur the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=744,2687,555,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-56",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "atricals, and then such Borscht circuit"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=708,2729,591,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-57",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "triumphs as being part of an act whose"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=708,2767,591,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-58",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "routine included chasing each other"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,235,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-59",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with meat cleavers and jumping into fish"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,273,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-60",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ponds fully clothed, Danny became a"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,312,596,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-61",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Catskill headliner. His next triumph was"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,349,597,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-62",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "being part of a dancing act called “The"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,386,596,42"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-63",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Terpsichoreans.” When this troupe was"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,425,596,41"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-64",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "to be engaged for a travelling outfit pre"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,462,595,40"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-65",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "senting something called La Vie Paree,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,501,594,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-66",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the producers wanted the act without"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,538,595,41"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-67",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "\"the skinny guy” (Danny Kaye). But"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,577,596,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-68",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "he did make it and even travelled to the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,613,594,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-69",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Orient with the show."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1352,654,320,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-70",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Back in the U.S., Danny “stooged”"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1387,689,558,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-71",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "for stars; ran down the aisles of Billy"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,727,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-72",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Rose’s nightclub shouting “Soft and"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1352,764,593,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-73",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mellow” during a hoofer’s act; and held"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1352,802,593,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-74",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "fans for Sally Rand."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1351,842,292,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-75",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "After a series of minor endeavors in"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1387,878,556,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-76",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "other Broadway assignments and in re"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,916,594,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-77",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "sorts, Danny became a genuine, major"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,952,595,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-78",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "league success in 1940 when customers"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,991,594,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-79",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "howled at his act at La Martinique, a"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1028,599,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-80",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "then-fashionable New York supper club."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,1065,592,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-81",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "His Russian accent (in a song by his"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1102,595,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-82",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "wife), his mugging and posturing so im"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,1140,593,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-83",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "pressed the patrons that show business"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1177,595,39"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-84",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "personalities began to attend. This led to"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,1215,593,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-85",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a role in Moss Hart's Lady in the Dark,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,1252,592,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-86",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "with Gertrude Lawrence. He stopped"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1348,1290,594,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-87",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "that show by reeling off the names of 57"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,1327,591,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-88",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Russian composers (some real, some"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1366,594,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-89",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "imagined) in 39 seconds."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,1404,369,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-90",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "From Lady in the Dark he went to"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1386,1441,558,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-91",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "starring roles in motion pictures, further"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1478,597,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-92",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "stage appearances, with top or near-top"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1517,596,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-93",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "billing, and, eventually, to today’s Dan"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1554,595,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-94",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ny Kaye, one of the most famous names"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1350,1593,594,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-95",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and one of the most beloved personali"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1349,1629,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-96",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ties in the entertainment world."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1348,1668,485,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-97",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "SEIJI OZAWA"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1347,1826,229,26"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-98",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Mr. Ozawa is a graduate of Tokyo’s"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1385,1870,558,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-99",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Toho School of Music, where he won"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,1908,597,34"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-100",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "first prizes in composition and conduct"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,1946,597,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-101",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "ing. Among the orchestras he has led in"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1347,1983,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-102",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "his own country are the Japanese Radio"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,2021,597,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-103",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Orchestra (N.H.K.) and the Japanese"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,2060,596,35"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-104",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Philharmonic. In 1959, he won first"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,2097,596,33"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-105",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "prize at the International Competition"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,2135,596,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-106",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "of Orchestra Conductors at Besanon,"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1345,2166,594,48"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-107",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "and the following year he received the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,2211,595,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-108",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Koussevitsky Memorial Scholarship as"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1345,2248,597,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-109",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the outstanding young conductor of the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1345,2286,596,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-110",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Berkshire Music Center."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1346,2324,365,29"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-111",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Though he is only 29 years old, Mr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1381,2362,559,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-112",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ozawa has already conducted many of"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1344,2400,598,37"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-113",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "the major orchestras in this country and"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1345,2437,596,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-114",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "has served as Music Director of the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1344,2476,597,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-115",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ravinia Festival. This season he has re"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1345,2513,596,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-116",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "turned to the New York Philharmonic"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1345,2551,596,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-117",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "as its Assistant Conductor and has been"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1345,2589,595,31"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-118",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "a guest conductor of the Pittsburgh Sym"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1344,2628,597,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-119",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "phony and London Symphony. Mr."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1344,2665,596,38"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-120",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Ozawa will be Music Director of the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1344,2703,598,30"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-121",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "Toronto Symphony beginning with the"
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1342,2741,599,36"
+  }, {
+    "id" : "http://localhost:8080/PR_1055_002_annotations.json-122",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "format" : "text/plain",
+      "value" : "1965-1966 season."
+    },
+    "target" : "https://cortex.nyphil.org/IIIF3/Presentation/Canvas/2TTUGPOTK3O6#xywh=1347,2776,270,29"
+  } ]
+}
